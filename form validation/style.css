@@ -1,0 +1,45 @@
+body
+{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+
+h1{
+    font-style: italic !important;
+    font-weight: bolder !important ;
+    color:rgb(60, 113, 60);
+}
+
+input{
+    margin-top: 20px !important;
+}
+
+.col-md-6
+{
+    background-color: white;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+
+    button{
+
+        margin-top: 20px !important;
+        float: left;
+    }  
+
+.success
+{
+    border: green 3px solid !important;
+}
+
+.error
+{
+    border: red 3px solid !important;
+}
+
+small{
+
+    margin:5px ;
+    color: red;
+    font-weight: bold;
+    text-align: start;
+}

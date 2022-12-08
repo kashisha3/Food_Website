@@ -1,0 +1,23 @@
+body{
+
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%,
+     #cf556c 78%, #b12a5b 100%);
+}
+
+.col-7-md
+{
+    background-color: white;
+    padding: 20px;
+    margin-top: 150px !important;
+}
+
+h1{
+   color: white;
+   background-color: rgb(206, 104, 99);
+}
+
+input , label{
+    margin: 10px ;
+    font-weight: bold;
+    font-size: 20px;
+}

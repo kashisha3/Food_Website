@@ -1,0 +1,25 @@
+body
+{
+    background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+}
+
+h1 
+{
+    text-align: center;
+    color: beige;
+
+}
+p
+{
+    text-align: center;
+    font-size: 0.8cm;
+}
+img{
+    height: 500px;
+    border-radius: 10px;
+}
+
+iframe
+{
+    border-width: 20px !important;
+}

@@ -1,0 +1,29 @@
+body
+{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);;
+}
+
+h1
+{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 3cm !important;
+    font-weight: bolder !important;
+    color: rgb(13, 10, 84);
+}
+
+h2
+{
+    text-align: center;
+
+}
+
+
+
+li 
+{ 
+   text-align: center;
+   list-style-type: none;
+   font-size: 1cm;
+   color: antiquewhite;
+}

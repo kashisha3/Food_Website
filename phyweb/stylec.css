@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);;
+}
+
+.col-md-12
+
+ {
+    
+margin-top: 125px;
+text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 1cm !important;
+}
+
+h1{
+    font-size: 2cm !important;
+}

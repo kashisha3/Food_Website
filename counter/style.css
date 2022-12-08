@@ -1,0 +1,22 @@
+body
+{
+    background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
+    }
+
+.col-md-6 {
+
+    border: 7px solid black !important;
+    background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
+    margin-top: 150px !important;
+    padding: 70px !important;
+
+}
+h1{
+    font-weight: bolder ;
+    margin: 20px !important;
+}
+
+button{
+    margin: 3px !important;
+    border: 3px solid black!important;
+}

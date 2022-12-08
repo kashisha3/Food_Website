@@ -1,0 +1,36 @@
+body
+{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+h1
+{
+    text-align: center;
+    font-size: 2cm !important;
+    font-weight: bolder !important;
+    color: rgb(117, 7, 106);
+}
+
+
+
+li 
+{ 
+   text-align: center;
+   list-style-type: none;
+   font-size: 1cm;
+   color: antiquewhite;
+}
+
+.col-md-12
+
+ {
+    
+margin-top: 150px;
+text-align: center;
+}
+
+p{
+
+    padding-left: 40px;
+    text-align: center;
+}
